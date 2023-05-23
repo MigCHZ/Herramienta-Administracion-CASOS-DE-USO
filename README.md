@@ -61,6 +61,7 @@ Potencial: Esta métrica es un valor calculado que indica cuánta mejora se pued
 En la parte inferior de la pestaña “Tácticas” podrán ver un resumen del Rendimiento Global con algunas graficas de ejemplo. Estas pueden ser ajustadas y creadas a necesidad.
 
 ![image](https://github.com/MigCHZ/Herramienta-Administracion-CASOS-DE-USO/assets/134456656/f10e91fe-b4c9-4f8c-b9e4-fc2b87f6085d)
+k
 
 
 
