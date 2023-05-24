@@ -23,7 +23,7 @@ Esta información hace parte de la recolectada en la metodología propuesta en l
 En la Pestaña Tácticas recomendamos incluir todas las tácticas de la Matriz de MITRE ATT&CK y otras amenazas propias del segmento de la organización. 
 Asigne un identificador de dos letras único, que permita identificar la táctica.
 
-![image](https://github.com/MigCHZ/Herramienta-Administracion-CASOS-DE-USO/assets/134456656/75c842bc-7073-471f-8529-1306bd6e3b4c)
+![image](https://github.com/MigCHZ/Herramienta-Administracion-CASOS-DE-USO/assets/134456656/a539f520-167b-4884-9d68-4cae9ad8a5fd)
 
 En la pestaña Técnicas, recomendamos listas cada una de las técnicas usadas por cada una de las tácticas de MITRE ATT&CK y las técnicas usadas de las otras amenazas.
 
