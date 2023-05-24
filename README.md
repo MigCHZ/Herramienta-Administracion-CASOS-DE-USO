@@ -46,16 +46,18 @@ En la pestaña “Referencias”, agreguen detalle sobre:
 
 Los actores maliciosos identificados 
 
-
+![image](https://github.com/MigCHZ/Herramienta-Administracion-CASOS-DE-USO/assets/134456656/9ac88f02-3376-4c5b-8071-a020c8e33ac7)
 
 
 Soluciones de Detección de la Organización 
 
-![image](https://github.com/MigCHZ/Herramienta-Administracion-CASOS-DE-USO/assets/134456656/f3220240-2337-4dbf-9078-1a9d266f0557)
+![image](https://github.com/MigCHZ/Herramienta-Administracion-CASOS-DE-USO/assets/134456656/9cef2d17-8110-4781-8519-75aea51dba5f)
 
 
 En la pestaña “Reglas” encuentran las columnas con las métricas “Efectividad”, Implementación “Cobertura” , “Peso” y “Potencial”
-![image](https://github.com/MigCHZ/Herramienta-Administracion-CASOS-DE-USO/assets/134456656/2985dd25-4c47-4f31-8af2-0468a9bcf7e5)
+
+![image](https://github.com/MigCHZ/Herramienta-Administracion-CASOS-DE-USO/assets/134456656/00807433-4306-4ef3-a50a-3a2153c98e57)
+
 
 Efectividad:  Esta métrica se utiliza para determinar la efectividad del mecanismo de detección de la regla.
 Implementación: Esta métrica se utiliza para determinar el nivel en el que se implementa el mecanismo de detección de la regla 
@@ -65,8 +67,9 @@ Potencial: Esta métrica es un valor calculado que indica cuánta mejora se pued
 
 En la parte inferior de la pestaña “Tácticas” podrán ver un resumen del Rendimiento Global con algunas graficas de ejemplo. Estas pueden ser ajustadas y creadas a necesidad.
 
-![image](https://github.com/MigCHZ/Herramienta-Administracion-CASOS-DE-USO/assets/134456656/f10e91fe-b4c9-4f8c-b9e4-fc2b87f6085d)
-k
+![image](https://github.com/MigCHZ/Herramienta-Administracion-CASOS-DE-USO/assets/134456656/da504877-329b-4856-ae97-77401b0ef5a2)
+
+
 
 
 
