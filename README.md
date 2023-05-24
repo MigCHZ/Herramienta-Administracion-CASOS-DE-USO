@@ -11,7 +11,9 @@ El uso de la herramienta permitirá a las organizaciones tener la capacidad de c
 
 Para usar la herramienta se debe seguir los siguientes pasos:
 
-![image](https://github.com/MigCHZ/Herramienta-Administracion-CASOS-DE-USO/assets/134456656/edac608e-1fd4-4b8f-b303-2be82389911d)
+Diligencie la información en la pestaña DRIVERS
+
+![image](https://github.com/MigCHZ/Herramienta-Administracion-CASOS-DE-USO/assets/134456656/622d5546-e4a7-4f60-86ac-73a03ed218fd)
 
 
 En esta tabla se debe listar todos los drivers de negocio y los drivers de cumplimiento de la compañía. Estos son los factores que impulsan la necesidad de proteger la información de la organización. Son la base en la definición de los casos de uso.
