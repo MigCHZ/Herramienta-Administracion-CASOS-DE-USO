@@ -27,23 +27,26 @@ Asigne un identificador de dos letras único, que permita identificar la táctic
 
 En la pestaña Técnicas, recomendamos listas cada una de las técnicas usadas por cada una de las tácticas de MITRE ATT&CK y las técnicas usadas de las otras amenazas.
 
-![image](https://github.com/MigCHZ/Herramienta-Administracion-CASOS-DE-USO/assets/134456656/b6cdc55d-6093-4e4a-b765-ab85879664a9)
+![image](https://github.com/MigCHZ/Herramienta-Administracion-CASOS-DE-USO/assets/134456656/74c17fdf-093c-443c-9881-c4fb30da8469)
+
 
 Al igual que el identificador de la táctica, en la pestaña Nivel 2 Caso de Uso, debe crear un identificador de la técnica asociada a la táctica. Para este caso debe usar las dos primeras letras de la táctica y luego tres letras que identifiquen la técnica separada por un guion como se muestra en la siguiente tabla
 
 En la pestaña Reglas, ingrese todos los nombres de las reglas de correlación que tienen implementadas en la actualidad.
 Importante que las reglas cuenten con una estandarización para que la herramienta pueda contabilizar y generar graficas de uso por cada tácticas y técnica.
 
-![image](https://github.com/MigCHZ/Herramienta-Administracion-CASOS-DE-USO/assets/134456656/a317c7c9-ea7c-45d9-92d8-fa6ba7955754)
+![image](https://github.com/MigCHZ/Herramienta-Administracion-CASOS-DE-USO/assets/134456656/fd8bfebe-55df-445c-bf1b-305f18af6e25)
 
 En la columna H de la pestaña Tácticas, podrán ver la cantidad de reglas asociadas a cada táctica.
-![image](https://github.com/MigCHZ/Herramienta-Administracion-CASOS-DE-USO/assets/134456656/68326bbe-17a8-43cd-9ec0-2c9ee9c0bcb5)
+
+![image](https://github.com/MigCHZ/Herramienta-Administracion-CASOS-DE-USO/assets/134456656/af42b062-6200-411a-9892-9a9998136f73)
+
 
 En la pestaña “Referencias”, agreguen detalle sobre:
 
 Los actores maliciosos identificados 
 
-![image](https://github.com/MigCHZ/Herramienta-Administracion-CASOS-DE-USO/assets/134456656/dd948737-dcee-4f6b-9adb-f4273967d78b)
+
 
 
 Soluciones de Detección de la Organización 
